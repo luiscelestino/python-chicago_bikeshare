@@ -2,7 +2,7 @@
 A study about the use of a system of bikeshare. Implementation of a [Udacity](https://www.udacity.com/)'s project using the python language.
 
 ## About
-The data utilised for this project and about other city and periods can be found at [Motivateco](https://www.motivateco.com/use-our-data/).
+The data utilised for this project and about other cities and periods can be found at [Motivateco](https://www.motivateco.com/use-our-data/). In this specific project, it was used this [data](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/September/5ba00ce4_chicago-bikeshare-pt/chicago-bikeshare-pt.zip).
 
 The objetive of this project is to make some tasks to analise a system of bikeshare for Chicago city.
 
